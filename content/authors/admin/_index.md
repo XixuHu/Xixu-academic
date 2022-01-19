@@ -25,6 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Data Science (to be expected)
+    institution: City University of Hong Kong
+    year: 2024
+    
   - course: BSc in Statistics
     institution: University of Science and Technology of China
     year: 2020
