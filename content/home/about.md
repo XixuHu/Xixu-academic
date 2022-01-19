@@ -13,7 +13,7 @@ headless: true
 weight: 20
 
 title: Biography
-Hello. Here is Xixu.
+
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
