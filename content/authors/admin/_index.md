@@ -14,13 +14,13 @@ organizations:
   url: https://www.sdsc.cityu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include domain adaptation, reinforcement learning and online learning.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Domain adaptation
+- Causal Inference
+- Data Visualization
 
 # Education to show in About widget
 education:
@@ -62,14 +62,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "xixuhu1998@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi! My name is HU Xixu and I am a second year PhD student at the School of Data Science. I am lucky to be co-supervised by [Prof. WU Qi](http://www.cityu.edu.hk/stfprofile/qiwu55.htm) and [Prof. ZHANG Qingpeng](http://www.cityu.edu.hk/stfprofile/zhang.htm). My research experience lies at the intersection of domain adaptation and causal inference. I work closely with [Dr. MA Shumin](https://dst.uic.edu.cn/fm_en/faculty/faculty.htm#/shuminma/en) and [Dr. YUAN Zhiri](https://hk.linkedin.com/in/zhiri-yuan-a4ab2290). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
